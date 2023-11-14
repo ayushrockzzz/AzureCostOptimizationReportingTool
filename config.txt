@@ -1,8 +1,8 @@
 [Configuration]
-Subscription Name=Your Subscription Name
-Resource Group Name=RG-AzureCostOptimizationReportingTool
-Logic App Name=LA-SendMail
-Automation Account Name=AA-AzureCostOptimizationReportingTool
+Subscription Name=Non-SAP Subscription
+Resource Group Name=HMEL-CI-ACOR-PRD-RG01
+Logic App Name=HMEL-CI-ACOR-LA01
+Automation Account Name=HMEL-CI-ACOR-AA01
 Deployment Location=Central India
-Report Frequency=Monthly
-Mail Recipients=ayush.satyam@wipro.com; pranad.munjal@wipro.com;
+Report Frequency=Weekly
+Mail Recipients=ayush.satyam@wipro.com; pranad.munjal@wipro.com; jayant.chhetri@wipro.com
