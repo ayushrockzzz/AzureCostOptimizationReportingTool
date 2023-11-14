@@ -1,0 +1,8 @@
+[Configuration]
+Subscription Name=Your Subscription Name
+Resource Group Name=RG-AzureCostOptimizationReportingTool
+Logic App Name=LA-SendMail
+Automation Account Name=AA-AzureCostOptimizationReportingTool
+Deployment Location=Central India
+Report Frequency=Monthly
+Mail Recipients=ayush.satyam@wipro.com; pranad.munjal@wipro.com;
