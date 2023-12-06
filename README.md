@@ -1,4 +1,4 @@
-# Azure Cost Optimization Reporting Tool (v1.02)
+# Azure Cost Optimization Reporting Tool
 
 * Assess your Azure workloads against 32 Microsoft cost optimization best practices scoped to subscriptions, management groups, or the entire tenant.
 * Get an efficiency score for each subscription and total cost optimization potential ($).
